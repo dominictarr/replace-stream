@@ -1,0 +1,17 @@
+{
+  "name": "replace-stream",
+  "description": "tool to replace text in a stream",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/replace-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/replace-stream.git"
+  },
+  "dependencies": {
+    "event-stream": "~3.1.1",
+    "parse-regexp": "~0.0.1"
+  },
+  "bin": "./index",
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
+  "license": "MIT"
+}
